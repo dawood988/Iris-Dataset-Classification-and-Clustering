@@ -1,5 +1,21 @@
 # Iris Dataset Classification and Clustering
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Dataset](#dataset)
+3. [Project Workflow](#project-workflow)
+   - [Data Preprocessing & Exploratory Data Analysis (EDA)](#1-data-preprocessing--exploratory-data-analysis-eda)
+   - [Feature Scaling & Encoding](#2-feature-scaling--encoding)
+   - [Model Training & Evaluation](#3-model-training--evaluation)
+   - [Model Optimization](#4-model-optimization)
+4. [Installation & Dependencies](#installation--dependencies)
+5. [Running the Project](#running-the-project)
+6. [Results](#results)
+7. [Conclusion](#conclusion)
+8. [Future Enhancements](#future-enhancements)
+9. [Author](#author)
+10. [License](#license)
+
 ## Overview
 This project focuses on classifying the Iris dataset using various machine learning algorithms and performing clustering with K-Means. The goal is to compare the performance of different models, including logistic regression, KNN, decision trees, random forests, SVM, and artificial neural networks (ANN). Additionally, exploratory data analysis (EDA) and visualization techniques are employed to understand the dataset better.
 
